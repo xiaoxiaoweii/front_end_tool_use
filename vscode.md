@@ -36,6 +36,7 @@
 - eslint
 - Auto Rename Tag 支持代码自动补全
 - liveServer 服务端插件
+- Element UI Snippets  Element代码补全
 
 
 
