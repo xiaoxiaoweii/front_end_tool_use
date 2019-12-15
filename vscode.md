@@ -35,6 +35,7 @@
 - VueHelper vue代码提示
 - eslint
 - Auto Rename Tag 支持代码自动补全
+- liveServer 服务端插件
 
 
 
