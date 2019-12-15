@@ -34,6 +34,7 @@
 - Markdown Preview Enhanced 预览md文件
 - VueHelper vue代码提示
 - eslint
+- Auto Rename Tag 支持代码自动补全
 
 
 
