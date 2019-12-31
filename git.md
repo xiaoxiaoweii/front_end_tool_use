@@ -1,6 +1,7 @@
 #### 下载
 
 - [git官方网站](https://git-scm.com/)
+- [git国内镜像](https://npm.taobao.org/mirrors/git-for-windows/)
 
 #### 教程
 
