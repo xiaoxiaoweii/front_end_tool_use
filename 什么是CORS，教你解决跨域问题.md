@@ -6,3 +6,6 @@
 
 [2小时快速掌握前端9种跨域解决方案](https://www.bilibili.com/video/av73495211/?spm_id_from=333.788.videocard.0) 多种跨域方法
 
+
+
+[善知教育/善知堂3.ajax-③-02.jQuery的jsonp跨域以及百度和360跨域搜索_字幕](<https://www.bilibili.com/video/av77651879?from=search&seid=2969883904871580606>) 讲的比较清楚
