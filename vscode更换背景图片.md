@@ -4,9 +4,7 @@
 
 - vscode搜索插件*background*  
 
-  如图
-
-![](C:\Users\xiaoxiaoweii\Desktop\front_end_tool_use\images\vscode更换背景图片-1.png)
+![](images\vscode更换背景图片-1.png)
 
 ### 安装使用
 
@@ -40,9 +38,9 @@
 
 - 单个窗口
 
-  ![](C:\Users\xiaoxiaoweii\Desktop\front_end_tool_use\images\vscode更换背景图片-2.png)
+  ![](images\vscode更换背景图片-2.png)
 
 - 两窗口
 
-![](C:\Users\xiaoxiaoweii\Desktop\front_end_tool_use\images\vscode更换背景图片-3.png)
+![](images\vscode更换背景图片-3.png)
 
